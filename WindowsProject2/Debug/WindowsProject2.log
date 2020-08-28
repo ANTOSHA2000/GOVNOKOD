@@ -1,0 +1,12 @@
+﻿  WindowsProject2.cpp
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(13): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(37): warning C4305: +=: усечение из "double" в "float"
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(38): warning C4305: +=: усечение из "double" в "float"
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(67): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(84): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(119): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(120): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(124): warning C4305: *=: усечение из "double" в "float"
+c:\users\константин\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(125): warning C4305: *=: усечение из "double" в "float"
+  WindowsProject2.vcxproj -> C:\Users\Константин\source\repos\WindowsProject2\Debug\WindowsProject2.exe
